@@ -1,1 +1,2 @@
 # challenge5
+This program visualizes a portfolio and determines whether it is sufficient for an emergency fund. Also, based on historical data, it forecasts the performance of a retirement portfolio in 30 years
